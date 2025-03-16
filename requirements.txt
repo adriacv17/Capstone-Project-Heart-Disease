@@ -1,7 +1,15 @@
+# Data Manipulation and Numerical Computation
 pandas 
 numpy 
-scikit-learn 
+
+# Visualization Libraries
 matplotlib 
 seaborn 
+missingno # Specifically for visualizing missing data
+
+# Machine Learning Libraries
+scikit-learn 
+
+# Library for Jupyter Notebooks
 jupyter
-missingno
+
